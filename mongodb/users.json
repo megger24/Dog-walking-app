@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "661d579eeb079b1ea0b6d54f"
+  },
+  "username": "Genise",
+  "firstName": "mega",
+  "lastName": "tron",
+  "email": "butler@mail.com",
+  "password": "$2a$10$dqQCC8yNfYRTjCcEGy1d1eA43hb9x51PUr23U16s5M/bIWK9H2VzG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "662974090f6213ce3022ff7e"
+  },
+  "username": "Jane Doe",
+  "email": "bgbgbg@hotmail.com",
+  "password": "$2a$10$8Plk4INNZI8Y/uACG.WIqO22IrxFamqJLAOFIhWgmJo//CDotiT2q",
+  "__v": 0,
+  "type": "walker",
+  "walkerImage": "walker1.jpg",
+  "walkerDescription": "Love all types of animals! Been walking dogs for 2 years now in all Phoenix areas."
+},{
+  "_id": {
+    "$oid": "662a73b2d0ed3260e15097f3"
+  },
+  "username": "buthead",
+  "email": "love@gmail.com",
+  "password": "$2a$10$zC.O/GaFFzcvV9bVtpKNyOrRGGfTm.92ogd9.zsuDjMdqtAHdz.DG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66313752127a7e51ca2102ef"
+  },
+  "username": "meg",
+  "email": "lisa@gmail.com",
+  "password": "$2a$10$YEhmGWaBRQSSnqc2l86HAOKzibP2r8fFd88AeHE.qV7RorCitYja.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6643b00bdf59c69b5168f3b8"
+  },
+  "username": "test3",
+  "email": "test3@gmail.com",
+  "password": "$2a$10$KXwFrGarG4bLJErh7SVQAu4kIKkGus24PRrWo6UL5e2IoxUN1dEHa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6669dc20695e11dc420ef6d5"
+  },
+  "username": "Sandy Doe",
+  "email": "fsfsfs@gmail.com",
+  "password": "$2a$10$QmSCj/kabbt6hwL4/0Z3jOSI36HBZVHyxcD7M3UwAC3gmQ8Q3Oi/y",
+  "__v": 0,
+  "type": "walker",
+  "walkerImage": "walker2.jpg",
+  "walkerDescription": "Grew up on a farm and is Vet Tech certified. Available anytime"
+},{
+  "_id": {
+    "$oid": "6669dc7c695e11dc420ef6d8"
+  },
+  "username": "Kathy Doe",
+  "email": "asmith@yahoo.com",
+  "password": "$2a$10$lbfyiGkNJo2rU.Med4Wiu.Yj119k6D8jGCGjG5uYUU5x7cZr9tcjW",
+  "__v": 0,
+  "type": "walker",
+  "walkerImage": "walker3.jpg",
+  "walkerDescription": "Is a college student looking for a job to support her funds.Loves all types of dogs and can travel."
+}]

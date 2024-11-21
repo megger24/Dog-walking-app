@@ -1,0 +1,233 @@
+@import './assets/css-libs/animate.css';
+
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#dog{
+  width:500px;
+  height:500px;
+  /* margin-left: 33%;
+  margin-top: 2%; */
+
+}
+#logo-dog{
+  height: 55px;
+  padding: 5px;
+}
+
+
+.div-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  row-gap: 30px;
+height:100vh;
+margin-left: 20%;
+}
+
+#package{
+  margin: 52px;
+}
+
+#welcome{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+/* Create three columns of equal width */
+.columns {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+}
+
+/* Style the list */
+.price {
+  list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+/* Add shadows on hover */
+.price:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+/* Pricing header */
+.price .header {
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+}
+
+/* List items */
+.price li {
+  border-bottom: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Grey list item */
+.price .grey {
+  background-color: #eee;
+  font-size: 20px;
+}
+
+/* The "Sign Up" button */
+.button {
+  background-color: rgb(108, 108, 114);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+/* Change the width of the three columns to 100%
+(to stack horizontally on small screens) */
+@media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+    margin-top: 20%;
+  }
+}
+.card {
+  margin: 10px;
+  width: 400px;
+  height:400px;
+}
+.div{
+  float: right;
+  z-index:1;
+
+}
+.text{
+  font-size: 20px;
+  text-align: center;
+  font-family: cursive;
+  font-weight: 400;
+}
+.blog-container{
+  margin: 30px;
+  align-content: center;
+  /* width: 50%; */
+  display: flex;
+  flex-direction: column;
+}
+.message-board{
+  font-size:35px ;
+  text-align: center;
+  font-family: cursive;
+}
+.pics{
+  width: 20%;
+  margin: 25px;
+  border-radius: 20%;
+  align-self: center;
+}
+.input{
+  color:black;
+   margin: 5px;
+  box-shadow: 0px 5px 5px lightblue;
+}
+#homepage{
+  height: 400px;
+  width: 400px;
+  margin-left: 50vh;
+}
+
+
+
+.row {
+
+  display: flex;
+
+  flex-wrap: wrap;
+ 
+}
+
+.col-25 {
+
+  flex: 25%;
+}
+
+.col-50 {
+
+  flex: 50%;
+}
+
+.col-75 {
+
+  flex: 75%;
+}
+
+.col-25,
+.col-50,
+.col-75 {
+  padding: 0 16px;
+}
+
+.container {
+  background-color: white;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid rgb(165, 148, 148);
+  border-radius: 3px;
+  margin: 40px;
+  
+}
+
+input[type=text] {
+  width:100% ;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.icon-container {
+  margin-bottom: 20px;
+  padding: 7px 0;
+  font-size: 24px;
+}
+span.price {
+  float: right;
+  color: grey;
+}
+.btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+@media (max-width: 400px) {
+  .row {
+    flex-direction: column-reverse;
+  }
+  .col-25 {
+    margin-bottom: 20px;
+  }
+}
+
+
+

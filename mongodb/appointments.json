@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "66746472a0e6e9def88d63b8"
+  },
+  "customer": {
+    "username": "meg",
+    "email": "lisa@gmail.com"
+  },
+  "start": {
+    "$date": {
+      "$numberLong": "1719001080000"
+    }
+  },
+  "end": {
+    "$date": {
+      "$numberLong": "1719004680000"
+    }
+  },
+  "walker": {
+    "_id": {
+      "$oid": "662974090f6213ce3022ff7e"
+    },
+    "username": "Jane Doe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66746498a0e6e9def88d63bb"
+  },
+  "customer": {
+    "username": "meg",
+    "email": "lisa@gmail.com"
+  },
+  "start": {
+    "$date": {
+      "$numberLong": "1719519540000"
+    }
+  },
+  "end": {
+    "$date": {
+      "$numberLong": "1719530340000"
+    }
+  },
+  "walker": {
+    "_id": {
+      "$oid": "6669dc20695e11dc420ef6d5"
+    },
+    "username": "Sandy Doe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66746d19a0e6e9def88d63bd"
+  },
+  "customer": {
+    "username": "meg",
+    "email": "lisa@gmail.com"
+  },
+  "start": {
+    "$date": {
+      "$numberLong": "1719519540000"
+    }
+  },
+  "end": {
+    "$date": {
+      "$numberLong": "1719530340000"
+    }
+  },
+  "walker": {
+    "_id": {
+      "$oid": "6669dc20695e11dc420ef6d5"
+    },
+    "username": "Sandy Doe"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "667483f32b317b1112978906"
+  },
+  "customer": {
+    "username": "meg",
+    "email": "lisa@gmail.com"
+  },
+  "start": {
+    "$date": {
+      "$numberLong": "1719614040000"
+    }
+  },
+  "end": {
+    "$date": {
+      "$numberLong": "1719354780000"
+    }
+  },
+  "walker": {
+    "_id": {
+      "$oid": "6669dc20695e11dc420ef6d5"
+    },
+    "username": "Sandy Doe"
+  },
+  "__v": 0
+}]
